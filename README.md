@@ -1,2 +1,2 @@
 # Thesis-
-the systematic study of adversarial attacks and defenses in Bangla text classification.
+the systematic study of adversarial attacks and defenses in Bangla text classification. investigating vulnerabilities across five diverse classification tasks—sentiment analysis, clickbait detection, sarcasm detection, fake news detection, and hate speech classification—and evaluate on five task specific pretrained and three large language models using five adversarial attack strategies: paraphrasing, gradient-based optimization, homoglyph substitution, random and important-word masking.
